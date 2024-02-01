@@ -1,0 +1,48 @@
+
+
+
+.item{
+
+     float: left;
+     margin-right:30px ;
+     margin: auto;margin-left:10px ;
+     margin-top: 5px ;
+     
+     /* padding: 5px; */
+    
+     /* لو عايزه فى المنتصف */
+}
+a{ color:black; text-decoration: none;}
+
+.noon{font-weight: bold;text-align: center; font-size:30px; margin: auto; }
+
+.product{
+
+   padding: 5px; ;
+    margin:10px;
+    float: left;
+    border-radius:5px ;
+    border: 1px lightgray solid;
+}
+
+/* .three{ display: flex ; justify-content: space-evenly;
+
+} */
+
+
+
+
+#input1{width:800 ; height:50px ;}
+
+.footer1{ 
+    display: inline-block;
+    margin-left:50px ;
+}
+
+
+li{ display: inline; list-style: none; margin-right:20px  ; font-size: 30px;}
+
+.footer3{ margin-left:50px ; margin-right:50px ;display:inline-block;
+
+
+}
